@@ -1,0 +1,73 @@
+name,date,city,level,subtype,popularity
+Badminton Championship 2024,2025-08-29,Chennai,International,Indoor Badminton,54
+Badminton Championship 2025,2025-10-11,Delhi,International,Indoor Badminton,75
+Badminton Championship 2025,2025-09-15,Kolkata,Local,Indoor Badminton,51
+Gymnastics Championship 2025,2025-09-02,Hyderabad,State,Indoor Gymnastics,57
+Gymnastics Championship 2025,2025-09-06,Hyderabad,State,Indoor Gymnastics,92
+Gymnastics Championship 2025,2025-10-04,Kolkata,National,Indoor Gymnastics,93
+Table Tennis Championship 2024,2025-08-08,Delhi,Local,Indoor Table Tennis,69
+Table Tennis Championship 2024,2025-10-02,Bengaluru,National,Indoor Table Tennis,77
+Table Tennis Championship 2024,2025-08-11,Kolkata,International,Indoor Table Tennis,96
+Kabaddi Championship 2025,2025-07-13,Chennai,Local,Indoor Kabaddi,74
+Kabaddi Championship 2025,2025-09-01,Mumbai,National,Indoor Kabaddi,56
+Kabaddi Championship 2025,2025-10-25,Hyderabad,Local,Indoor Kabaddi,77
+Carrom Championship 2025,2025-07-08,Chennai,State,Indoor Carrom,80
+Carrom Championship 2024,2025-05-24,Delhi,International,Indoor Carrom,64
+Carrom Championship 2024,2025-05-15,Hyderabad,International,Indoor Carrom,99
+Chess Championship 2025,2025-10-01,Delhi,Local,Indoor Chess,77
+Chess Championship 2025,2025-07-28,Chennai,National,Indoor Chess,90
+Chess Championship 2024,2025-08-01,Delhi,National,Indoor Chess,98
+Squash Championship 2025,2025-05-15,Mumbai,State,Indoor Squash,83
+Squash Championship 2024,2025-08-03,Mumbai,National,Indoor Squash,57
+Squash Championship 2024,2025-09-19,Delhi,State,Indoor Squash,94
+Judo Championship 2024,2025-08-05,Kolkata,National,Indoor Judo,75
+Judo Championship 2025,2025-07-26,Bengaluru,National,Indoor Judo,74
+Judo Championship 2024,2025-06-22,Bengaluru,Local,Indoor Judo,88
+Boxing Championship 2025,2025-08-21,Hyderabad,National,Indoor Boxing,99
+Boxing Championship 2024,2025-07-07,Chennai,National,Indoor Boxing,54
+Boxing Championship 2024,2025-09-23,Mumbai,National,Indoor Boxing,56
+Wrestling Championship 2024,2025-08-04,Delhi,National,Indoor Wrestling,92
+Wrestling Championship 2025,2025-05-11,Delhi,International,Indoor Wrestling,79
+Wrestling Championship 2025,2025-08-12,Bengaluru,International,Indoor Wrestling,54
+Fencing Championship 2024,2025-08-14,Bengaluru,International,Indoor Fencing,56
+Fencing Championship 2024,2025-07-31,Delhi,International,Indoor Fencing,70
+Fencing Championship 2025,2025-07-15,Mumbai,State,Indoor Fencing,58
+Basketball (Indoor) Championship 2025,2025-10-22,Chennai,State,Indoor Basketball (Indoor),66
+Basketball (Indoor) Championship 2024,2025-10-04,Chennai,State,Indoor Basketball (Indoor),98
+Basketball (Indoor) Championship 2024,2025-07-04,Kolkata,Local,Indoor Basketball (Indoor),52
+Athletics Championship 2024,2025-07-07,Delhi,International,Outdoor Athletics,97
+Athletics Championship 2024,2025-07-01,Chennai,Local,Outdoor Athletics,75
+Athletics Championship 2024,2025-10-08,Delhi,State,Outdoor Athletics,50
+Football Championship 2024,2025-07-22,Delhi,Local,Outdoor Football,88
+Football Championship 2025,2025-10-30,Mumbai,State,Outdoor Football,91
+Football Championship 2024,2025-08-05,Bengaluru,International,Outdoor Football,52
+Cricket Championship 2024,2025-05-11,Chennai,Local,Outdoor Cricket,77
+Cricket Championship 2024,2025-06-02,Hyderabad,National,Outdoor Cricket,100
+Cricket Championship 2025,2025-09-16,Bengaluru,International,Outdoor Cricket,98
+Hockey Championship 2025,2025-07-18,Bengaluru,State,Outdoor Hockey,79
+Hockey Championship 2024,2025-06-05,Delhi,State,Outdoor Hockey,60
+Hockey Championship 2025,2025-05-08,Bengaluru,International,Outdoor Hockey,50
+Tennis Championship 2025,2025-06-04,Delhi,State,Outdoor Tennis,83
+Tennis Championship 2025,2025-09-27,Hyderabad,State,Outdoor Tennis,93
+Tennis Championship 2024,2025-09-27,Hyderabad,International,Outdoor Tennis,91
+Baseball Championship 2024,2025-08-12,Delhi,Local,Outdoor Baseball,56
+Baseball Championship 2024,2025-09-22,Bengaluru,Local,Outdoor Baseball,82
+Baseball Championship 2025,2025-06-07,Mumbai,State,Outdoor Baseball,80
+Rugby Championship 2025,2025-05-09,Delhi,National,Outdoor Rugby,82
+Rugby Championship 2024,2025-07-29,Mumbai,State,Outdoor Rugby,56
+Rugby Championship 2025,2025-07-26,Bengaluru,Local,Outdoor Rugby,61
+Cycling Championship 2024,2025-06-03,Kolkata,International,Outdoor Cycling,51
+Cycling Championship 2024,2025-06-26,Delhi,State,Outdoor Cycling,56
+Cycling Championship 2025,2025-08-09,Kolkata,International,Outdoor Cycling,51
+Golf Championship 2024,2025-06-15,Bengaluru,National,Outdoor Golf,95
+Golf Championship 2025,2025-07-21,Delhi,National,Outdoor Golf,54
+Golf Championship 2025,2025-06-10,Chennai,International,Outdoor Golf,70
+Archery Championship 2024,2025-05-24,Mumbai,National,Outdoor Archery,69
+Archery Championship 2025,2025-08-12,Hyderabad,State,Outdoor Archery,78
+Archery Championship 2024,2025-08-29,Hyderabad,Local,Outdoor Archery,57
+Rowing Championship 2025,2025-09-03,Bengaluru,Local,Outdoor Rowing,93
+Rowing Championship 2025,2025-08-05,Hyderabad,International,Outdoor Rowing,73
+Rowing Championship 2024,2025-08-17,Delhi,Local,Outdoor Rowing,75
+Skateboarding Championship 2024,2025-08-31,Hyderabad,State,Outdoor Skateboarding,74
+Skateboarding Championship 2024,2025-09-14,Delhi,National,Outdoor Skateboarding,71
+Skateboarding Championship 2025,2025-07-12,Kolkata,International,Outdoor Skateboarding,71
